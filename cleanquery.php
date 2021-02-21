@@ -1,3 +1,7 @@
+//hola mundo, holaaaaaaaaaaaaaaaaa
+//xd
+/hola
+//
 <?php
 function strClean($strCadena){
 		$string = preg_replace(['/\s+/','/^\s|\s$/'],[' '],'', $strCadena);
